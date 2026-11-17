@@ -1,0 +1,5 @@
+[{"id":1,"name":"Red Light Therapy","variants":[
+{"key":"wand","name":"Red Light Therapy Wand","s":"Wand","price":49},
+{"key":"cap","name":"Red Light Therapy Hair Cap","s":"Hair Cap","price":129},
+{"key":"duo","name":"Glow Duo Bundle (Wand + Hair Cap)","s":"Duo Bundle","price":159,"old":178},
+{"key":"family","name":"Family Bundle (2 Wands + 2 Hair Caps)","s":"Family Bundle","price":299,"old":356}]}]
